@@ -1,8 +1,8 @@
 # CS510 CW 10
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Aly Baughman and Cynthia Parks**
 
-[![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-10-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-10-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-10-alyandcindy.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-10-alyandcindy)
 
 ## Specification
 
@@ -38,7 +38,7 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
+This assignment was helpful for exploring the tricks of memory allocation, especially with the arrays files.  The BitPrint file was interesting to see the different representations possible for letters and numbers, plus the ways bits are used to represent positive and negative numbers.  This was a bit of a challenging assignment but the information from it was helpful.
 
 **CHANGEME**
 
@@ -51,4 +51,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Aly Baughman and Cynthia Parks**
