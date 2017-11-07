@@ -5,7 +5,7 @@
 int main(int argc, char **argv) {
     
     // Permit easy command-line access
-    unsigned int C = 65;
+    unsigned int C = 10;
     if (argc == 2) {
         C = atoi(argv[1]);
         printf("Using unsigned integer: %u\n\n", C);
